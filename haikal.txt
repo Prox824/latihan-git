@@ -1,5 +1,0 @@
-print("========")
-print("Nama: Mohammad Haikal Putra")  
-print("Kelas: 10.1A.01")
-print("jurusan: Rekayasa Perangakat Lunak")
-print("========")
